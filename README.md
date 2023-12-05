@@ -1,2 +1,2 @@
 # oora
-Worldbuilding projects
+Worldbuilding scripts and collaborative projects
